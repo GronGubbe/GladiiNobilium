@@ -1,5 +1,7 @@
 {
   "item.gladii_nobilium.gold_plated_bone_scimitar": "Gold plated bone Scimitar",
   "item.gladii_nobilium.bone_scimitar": "Bone Scimitar",
-  "item.gladii_nobilium.copper_scimitar": "Copper Scimitar"
+  "item.gladii_nobilium.copper_scimitar": "Copper Scimitar",
+
+  "creativetab.gladiinobilium_tab": "Gladii Nobilium: Weapons"
 }
