@@ -41,6 +41,8 @@ public class Gladii_Nobilium {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.COMBAT) {
             event.accept(ModItems.GOLDPLATEDBONESCIMITAR);
+            event.accept(ModItems.BONESCIMITAR);
+            event.accept(ModItems.COPPERSCIMITAR);
         }
     }
 

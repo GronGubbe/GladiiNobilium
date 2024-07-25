@@ -11,8 +11,13 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, Gladii_Nobilium.MOD_ID);
 
-    public static final RegistryObject<Item> GOLDPLATEDBONESCIMITAR = ITEMS.register("Gold plated bone Scimitar",
+    public static final RegistryObject<Item> GOLDPLATEDBONESCIMITAR = ITEMS.register("gold_plated_bone_scimitar",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BONESCIMITAR = ITEMS.register("bone_scimitar",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COPPERSCIMITAR = ITEMS.register("copper_scimitar",
+            () -> new Item(new Item.Properties()));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
