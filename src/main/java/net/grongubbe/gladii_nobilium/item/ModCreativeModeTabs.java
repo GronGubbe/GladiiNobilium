@@ -1,6 +1,7 @@
 package net.grongubbe.gladii_nobilium.item;
 
 import net.grongubbe.gladii_nobilium.Gladii_Nobilium;
+import net.grongubbe.gladii_nobilium.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -21,6 +22,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.BONESCIMITAR.get());
                         pOutput.accept(ModItems.GOLDPLATEDBONESCIMITAR.get());
                         pOutput.accept(ModItems.COPPERSCIMITAR.get());
+
+                        pOutput.accept(ModBlocks.DRAGONBLOODLOG.get());
                     })
                     .build());
 

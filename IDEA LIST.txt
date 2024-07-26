@@ -1,0 +1,91 @@
+To-Do List: Dragonblood Tree
+
+1. Design and Texturing:
+
+    Create textures for the Dragonblood Tree trunk, leaves, and sap.
+    Design the Dragonblood Resin and Dragonbone items.
+
+2. Tree Generation:
+
+    Code the generation of Dragonblood Trees in specific biomes (e.g., deserts, savannas).
+    Ensure trees have a unique appearance with twisted trunks and vibrant red sap.
+
+3. Harvestable Resources:
+
+    Implement harvesting of Dragonblood Resin using an axe.
+    Allow collection of Dragonblood Leaves using shears.
+    Introduce a mechanic for finding Dragonbones near the base of the tree or underground roots.
+
+4. Crafting Recipes:
+
+    Create recipes for Dragonbone Sword, Dragonbone Armor, and Dragonblood Elixirs.
+        Dragonbone Sword: 2 Dragonbones + 1 Stick.
+        Dragonbone Armor: Dragonbones + Dragonblood Resin.
+        Dragonblood Elixirs: Brew Dragonblood Resin with Awkward Potions.
+
+5. Enchantments and Effects:
+
+    Define special properties for Dragonbone Sword and Armor (e.g., increased damage, fire resistance).
+    Implement potion effects for Dragonblood Elixirs (e.g., fire resistance, regeneration).
+
+6. Advanced Interactions:
+
+    Code interactions between Dragonblood Trees and Ancient Water to enhance growth or resource yield.
+    Add environmental storytelling elements like ruins or lore books near Dragonblood Trees.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+To-Do List: Meteorite Impact Site
+
+1. Design and Texturing:
+
+    Create textures for the Meteorite Core, Meteorite Fragments, Celestial Shards, and Ancient Water.
+    Design the Meteorite Spider or Celestial Spider mob.
+
+2. Impact Site Generation:
+
+    Implement rare generation of Meteorite Impact Sites in various biomes.
+    Ensure sites have a distinct appearance with scattered fragments and craters.
+
+3. Harvestable Resources:
+
+    Code the mining of Meteorite Core with a Diamond Pickaxe or higher.
+    Implement collection of Meteorite Fragments and chance drops of Celestial Shards.
+
+4. Crafting Recipes:
+
+    Create recipes for Meteorite Sword, Meteorite Armor, and Celestial Tools.
+        Meteorite Sword: 2 Meteorite Fragments + 1 Celestial Shard.
+        Meteorite Armor: Meteorite Fragments + Meteorite Core.
+        Celestial Tools: Meteorite Fragments + Celestial Shards.
+        Potion of Eternal Healing: Brew Ancient Water with Dragonblood.
+
+5. Mob and Combat Mechanics:
+
+    Code the spawning and behavior of Meteorite Spider or Celestial Spider when mining Meteorite resources.
+    Define the spider’s abilities (e.g., poison, blindness) and drop rates.
+
+6. Special Features:
+
+    Implement the radiation effect around Meteorite Core, reducing health unless wearing Meteorite Armor.
+    Code interactions between Ancient Water and Dragonblood Trees to enhance growth or resource yield.
+    Add dynamic elements like occasional meteor showers that create new impact sites.
+
+Integration and Testing
+
+1. Balance and Adjustments:
+
+    Playtest the harvesting mechanics, resource yield, and mob difficulty.
+    Adjust item properties and recipe requirements for balance within the game's progression system.
+
+2. Bug Fixing:
+
+    Identify and fix any bugs related to tree generation, resource harvesting, mob behavior, and crafting recipes.
+
+3. Lore and Documentation:
+
+    Write in-game lore entries or books to explain the origin and significance of Dragonblood Trees and Meteorite Impact Sites.
+    Create a detailed guide or documentation for players to understand the new mechanics and features.
+
+By following these steps, you can systematically develop and integrate the Dragonblood Tree and Meteorite Impact Site concepts into your Minecraft mod, ensuring a polished and immersive experience for players.

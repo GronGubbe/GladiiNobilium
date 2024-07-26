@@ -1,6 +1,7 @@
 package net.grongubbe.gladii_nobilium;
 
 import com.mojang.logging.LogUtils;
+import net.grongubbe.gladii_nobilium.block.ModBlocks;
 import net.grongubbe.gladii_nobilium.item.ModCreativeModeTabs;
 import net.grongubbe.gladii_nobilium.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -29,6 +30,7 @@ public class Gladii_Nobilium {
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
